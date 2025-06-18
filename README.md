@@ -7,7 +7,7 @@ This project is a tourism landing page developed for **Aa Aqui Turismo**, a trav
 
 ## 🔗 Live Website
 
-➡️ [Click here to view the site](https://nikolasgoo.github.io/Tourism-Site)
+➡️ [Click here to view the site]((https://aaaquiturimocn.com.br))
 
 ---
 
