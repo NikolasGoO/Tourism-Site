@@ -72,7 +72,7 @@ This project is a tourism landing page developed for **Aa Aqui Turismo**, a trav
 ## 🧑‍💻 Developer
 
 Made with care by [Nikolas Go](https://github.com/NikolasGoO)  
-📧 aaaquiturismocaldasnovas@gmail.com  
+📧 nikolasgomes925@gmail.com
 📍 Caldas Novas, GO — Brazil
 
 ---
